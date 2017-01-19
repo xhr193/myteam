@@ -1,0 +1,13 @@
+.header .Logo{
+   display: block;
+   height: auto;
+   width: auto;
+   margin: auto;
+   max-width: 300px;
+   max-height: 300px;
+}
+
+.header h1{
+  color: blue;
+  text-align: center;
+}
